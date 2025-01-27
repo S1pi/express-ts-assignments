@@ -1,3 +1,7 @@
+## Testing results
+
+![screenshot](screenshots/test-results.png)
+
 # Express TypeScript SQLite
 
 An Express.js application template written in TypeScript using SQLite for database management.
